@@ -1,6 +1,6 @@
 ## Olá! Me chamo Cauã Calixto 👋
 
-##### Olá! Meu nome é Cauã Calixto sou entusiasmado e dedicado na área de Tecnologia da Informação (TI), com foco em estudos em C#, Python e MySQL. Tenho 20 anos de idade e estou atualmente no 3º Semestre do curso de Análise e Desenvolvimento de Sistemas na (Faculdade Cruzeiro Do Sul). Tenho paixão por programação e uma forte inclinação para a resolução de desafios!
+##### TI: Sou estudante de Tecnologia da Informação com foco em desenvolvimento em Python, além de possuir conhecimento em bancos de dados relacionais (SQL) e habilidades sólidas em versionamento com Git e GitHub. Atualmente, estou em busca de oportunidades para aplicar meu aprendizado. Tenho também habilidades em hardware, incluindo montagem, limpeza de componentes, otimização de Windows e formatação de sistemas.
 
 
 ## Contato
