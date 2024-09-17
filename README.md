@@ -1,6 +1,6 @@
 ## Olá! Me chamo Cauã Calixto 👋
 
-##### TI: Sou estudante de Tecnologia da Informação com foco em desenvolvimento em Python, além de possuir conhecimento em bancos de dados relacionais (SQL) e habilidades sólidas em versionamento com Git e GitHub. Atualmente, estou em busca de oportunidades para aplicar meu aprendizado. Tenho também habilidades em hardware, incluindo montagem, limpeza de componentes, otimização de Windows e formatação de sistemas.
+Sobre Mim: Sou estudante de Tecnologia da Informação com foco em desenvolvimento em Python. Possuo conhecimento sólido em bancos de dados relacionais (SQL) e habilidades avançadas em versionamento com Git e GitHub. Além disso, tenho experiência com hardware, incluindo montagem, limpeza de componentes, otimização de Windows e formatação de sistemas. Atualmente, estou em busca de oportunidades para aplicar e expandir meus conhecimentos na prática.
 
 
 ## Contato
